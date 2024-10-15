@@ -4,7 +4,7 @@ import BoxComponent from './boxComponent'
 function App() {
 
   return (
-    <div className='pb-[70px]'>
+    <div className='pb-[70px] bg-[#FBFBFB]'>
       <div className='px-8 text-center mt-20'>
         <p className='font-extraLight text-gray-500 text-[22px] sm:text-[35px] sm:text-gray-600'>Reliable, efficient delivery</p>
         <p className='font-medium text-gray-600 text-[22px] sm:text-[35px]'>Powered by Technology</p>
