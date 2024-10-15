@@ -20,7 +20,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/)
+- Solution URL: (https://www.frontendmentor.io/solutions/four-card-feature-section-using-tailwind-and-react-HfyziOKC8z)
 
 ## My process
 
